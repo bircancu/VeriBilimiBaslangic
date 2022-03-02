@@ -1,7 +1,7 @@
 sorular
 1-[22,27,16,2,18,6] dizisinin
 a-insertion sort türüne göre aşamalarını,
-b-big-O gösterimini yazınız.
+b-big-o gösterimini yazınız.
 2-dizi sıralandıktan sonra sonra 18 sayısının hangi case (worst, average, best) kapsamına gireceğini yazınız.
 3-[7,3,5,8,2,9,4,15,6] dizisinin insertion sort türüne göre ilk 4 adımını yazınız.
 
